@@ -1,0 +1,1 @@
+print('pivet moi dorogie<3')
